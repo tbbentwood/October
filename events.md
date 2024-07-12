@@ -1,3 +1,6 @@
+Here is the full revised markdown content of your file:
+
+```markdown
 ---
 layout: page
 title: "Foreign Policy Events"
@@ -92,6 +95,8 @@ permalink: /foreign-policy-events/
       <td>10</td>
       <td>October 14, 2023</td>
       <td>Secretary of Defense Lloyd Austin stressed that Israel must act within the rules of war and protect civilians.</td>
+
+
       <td><a href="https://x.com/spectatorindex/status/1713298811962249286?s=20">Spectator Index on X</a></td>
     </tr>
     <tr>
@@ -169,7 +174,9 @@ permalink: /foreign-policy-events/
     <tr>
       <td>23</td>
       <td>October 18, 2023</td>
-      <td>During his speech, Biden reiterated his support for a two-state solution, stating, “We must keep pursuing peace. We must keep pursuing a path so that Israel and the Palestinian people can both live safely, in security, in dignity, and in peace. For me, that means a two-state solution.” This stance can be seen as rewarding Hamas for the atrocities committed on October 7th.</td>
+      <td>During his speech, Biden reiterated his support for a two-state solution, stating, “We must keep pursuing peace. We must keep pursuing a path so that Israel and the Palestinian people can both live safely, in security, in dignity, and in peace. For me, that means a two-state solution.” This stance can be seen as rewarding Hamas for the atrocities committed on
+
+ October 7th.</td>
       <td><a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-on-the-october-7th-terrorist-attacks-and-the-resilience-of-the-state-of-israel-and-its-people-tel-aviv-israel/">White House</a></td>
     </tr>
     <tr>
@@ -253,7 +260,9 @@ permalink: /foreign-policy-events/
     <tr>
       <td>37</td>
       <td>October 26, 2023</td>
-      <td>The Biden administration urged Israel to rethink its plans for a major ground offensive in the Gaza Strip and instead to opt for a more “surgical” operation. This would involve using aircraft and special operations forces to carry out precise, targeted raids on high-value Hamas targets and infrastructure.</td>
+      <td>The Biden administration urged Israel to rethink its plans for a major ground offensive in the Gaza Strip and instead to opt for a more
+
+ “surgical” operation. This would involve using aircraft and special operations forces to carry out precise, targeted raids on high-value Hamas targets and infrastructure.</td>
       <td><a href="https://archive.ph/ZkjnO#selection-583.0-583.289">Archive</a></td>
     </tr>
     <tr>
@@ -294,4 +303,3 @@ permalink: /foreign-policy-events/
     </tr>
   </tbody>
 </table>
-
