@@ -49,7 +49,7 @@ permalink: /foreign-policy-events/
     <tr>
       <td>3</td>
       <td>October 9, 2023</td>
-      <td>The U.S. announced the movement of the USS Gerald R. Ford Carrier Strike Group to the Eastern Mediterranean. This deployment included the aircraft carrier USS Gerald R. Ford, the guided missile cruiser USS Normandy, and several guided missile destroyers. The move was ostensibly part of a broader effort to bolster regional deterrence and support Israel following the Hamas attacks that began on October 7, 2023. (Future evidence, examined in retrospect, suggests this deployment was as much about deterring Iranian involvement as it was about supporting Israel.)</td>
+      <td>The U.S. announced the movement of the USS Gerald R. Ford Carrier Strike Group to the Eastern Mediterranean. This deployment included the aircraft carrier USS Gerald R. Ford, the guided missile cruiser USS Normandy, and several guided missile destroyers. The move was ostensibly part of a broader effort to bolster regional deterrence and support Israel following the Hamas attacks that began on October 7, 2023. (Future evidence, examined in retrospect, suggests this deployment was as much about deterring Israel as it was about deterring Hezbollah.)</td>
       <td><a href="https://archive.fo/HLcB8#selection-781.0-811.1">Tablet</a>, <a href="https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/10/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-9/">White House</a>, <a href="https://www.defense.gov/News/Transcripts/Transcript/Article/3551962/senior-defense-official-holds-a-background-briefing-on-us-force-posture-changes/">Department of Defense</a></td>
     </tr>
     <tr>
